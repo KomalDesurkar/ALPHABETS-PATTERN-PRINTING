@@ -37,4 +37,15 @@ To use the pattern, clone this repository using:
   G H I J K L M N O P Q
   ```
 
+***********
+*         *
+*         *
+*         *
+*         *
+***********
+*         *
+*         *
+*         *
+*         *
+*         *
 
