@@ -22,30 +22,10 @@ To use the pattern, clone this repository using:
 
 ## Patterns Available
 
-- **A-Z Alphabet Grid (11x11)**
+- **A-Z Alphabet**
   ```
   A B C D E F G H I J K
   L M N O P Q R S T U V
-  W X Y Z A B C D E F G
-  H I J K L M N O P Q R
-  S T U V W X Y Z A B C
-  D E F G H I J K L M N
-  O P Q R S T U V W X Y
-  Z A B C D E F G H I J
-  K L M N O P Q R S T U
-  V W X Y Z A B C D E F
-  G H I J K L M N O P Q
+  W X Y Z 
   ```
-  ```
-***********
-*         *
-*         *
-*         *
-*         *
-***********
-*         *
-*         *
-*         *
-*         *
-*         *
-```
+  
