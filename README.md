@@ -36,7 +36,7 @@ To use the pattern, clone this repository using:
   V W X Y Z A B C D E F
   G H I J K L M N O P Q
   ```
-
+  ```
 ***********
 *         *
 *         *
@@ -48,4 +48,4 @@ To use the pattern, clone this repository using:
 *         *
 *         *
 *         *
-
+```
